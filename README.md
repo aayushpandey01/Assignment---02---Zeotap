@@ -32,7 +32,7 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
 3. Install required packages:
 
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 
 Database Setup-
